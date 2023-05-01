@@ -1,0 +1,119 @@
+.button{
+    background-color: transparent;
+    border: line;
+    border-color: rgb(255, 255, 255);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;border-radius: 20px;
+}
+.return{
+    font-size: 20px;
+}
+a{
+    color: rgb(243, 227, 207);
+}
+#raiden{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(129, 44, 168);
+    border-radius: 15px;
+    padding: 5px;
+    color: black;
+    background-color: rgb(129, 44, 168);
+    width: 1000px;
+}
+#zero_two{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(189, 81, 131);
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(189, 81, 131);
+    width: 1000px;
+}
+#Ai{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(223, 94, 154);
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(223, 94, 154);
+    width: 1000px;
+}
+#nezuko{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(236, 140, 185);
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(236, 140, 185);
+    width: 1000px;
+}
+#aqua{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(109, 153, 218);
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(109, 153, 218);
+    width: 1000px;
+}
+#mitsuri{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(182, 93, 145);
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(182, 93, 145);
+    width: 1000px;
+}
+#Inazuma{
+    background-image: url("Inazuma.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover; 
+}
+#zero_background{
+    background-image: url("zero_background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover; 
+}
+#Ai_background{
+    background-image: url("Ai_background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover; 
+}
+#nezuko_bg{
+    background-image: url("nezuko_bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover; 
+}
+#sea{
+    background-image: url("sea.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover; 
+}
+#mitsuri_bg{
+    background-image: url("mitsuri_bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover; 
+}

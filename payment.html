@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://kit.fontawesome.com/78485b71b0.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="payment.css">
+        <nav>
+            <div class="return">
+                <a href="main.html"  style="text-decoration: none;"><h1><i class="fa-solid fa-arrow-left"></i>Return to main page</h1></a>
+            </div>
+        </nav>
+        <h1 id="first">Payment</h1>
+    </head>
+    <body>
+        <div id="payment">
+            <div>
+                <div>
+                    <label for="fname">First name</label>
+                    <input type="text" placeholder="Aquamarine" required>
+                </div>
+
+                <br>
+
+                <div>
+                    <label>Last name</label>
+                    <input type="text" placeholder="Hoshino" required>
+                </div>
+
+                <br>
+
+                <div>
+
+                    <label>Password</label>
+                    <input type="password :" maxlength="15" minlength="6" required>
+                </div>
+                        
+                <br>
+
+                <div>
+                    <label>best game:</label>
+                    <input type="text">
+                </div>
+
+                <br>
+
+                <button id="submit" class="button" onclick="Submit()">Submit</button>
+            </div>
+        </div>
+        <div id="social_media">
+            <div class="fb">
+                <a href="https://www.facebook.com/minhhieu.hoang.589" style="text-decoration: none;" style="color:black">Facebook:Hoàng Minh Hiếu <i class="fa-brands fa-facebook"></i></a>
+            </div>
+            <div class="insta">
+                <a href="https://www.instagram.com/muffinhavlop/" style="text-decoration: none;" style="color:black">Instagram:Hoàng Minh Hiếu @muffinhavlop <i class="fa-brands fa-instagram"></i></a>
+            </div>
+            <div class="tweet">
+                <a href="https://twitter.com/HonGmiN09366075>T" style="text-decoration: none;" style="color:black">Twitter:HoànG miNh HiếU @HonGmiN09366075 <i class="fa-brands fa-twitter"></i></a>
+            </div>
+            <div class="dis">
+                <a href="https://discord.com/channels/@me " style="text-decoration: none;" style="color:black">Discord:Muffinhavlop:#3307 <i class="fa-brands fa-discord"></i></a>
+            </div>
+            <div class="reddit">
+                <a href="https://www.reddit.com/user/theamongus " style="text-decoration: none;" style="color:black">Reddit:Theamongus u/theamongus <i class="fa-brands fa-reddit"></i></a>        
+            </div>
+            <div class="email">
+                <a href="https://mail.google.com/mail/u/0/#inbox" style="text-decoration: none;" style="color:black">email:Minhhieu260707@gmail.com <i class="fa-solid fa-envelope"></i></a>
+            </div>
+
+        </div>
+        <h1 id="screw" class="second">Thank you for your purchase</h1>
+        <script>
+            function Submit(){
+                document.getElementById("screw").innerHTML = "Screw you, you get no maidens"
+            }
+        </script>
+    </body>
+</html>

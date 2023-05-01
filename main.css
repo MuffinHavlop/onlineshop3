@@ -1,0 +1,111 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+#title{
+    border-style: line;
+    border-width: 5px;
+    border-color: whitesmoke;
+    border-radius: 10px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 183, 227);
+    height: 40px;
+    width: 1050px;
+    margin-left: 450px;
+}
+.button{
+    background-color: transparent;
+    border: line;
+    border-color: rgb(255, 255, 255);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;border-radius: 20px;
+}
+
+#raiden{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(129, 44, 168);
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(252, 252, 252);
+    background-color: rgb(129, 44, 168);
+    width: 500px;
+    height: 400px;
+    margin-top: -10px;
+}
+#zero_two{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(189, 81, 131);
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(189, 81, 131);
+    width: 500px;
+    margin-left: 550px;
+    margin-top: -420px;
+}
+#Ai{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(223, 94, 154);
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(223, 94, 154);
+    width: 500px;
+    height: 400px;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+#nezuko{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(236, 140, 185);
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(236, 140, 185);
+    width: 500px;
+    height: 410px;
+    margin-top: -425px;
+}
+#aqua{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(109, 153, 218);
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(109, 153, 218);
+    width: 500px;
+    margin-left: 0px;
+    margin-top: 20px;
+}
+#mitsuri{
+    border-style: solid;
+    border-width: 5px;
+    border-color: rgb(182, 93, 145);
+    border-radius: 15px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(182, 93, 145);
+    width: 500px;
+    height: 425px;
+    margin-left: 550px;
+    margin-top: -445px;
+}
+.image{
+    border-radius: 15px;
+}
+.all{
+    margin-left: 450px;
+}

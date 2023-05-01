@@ -1,0 +1,143 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+#payment{
+    border: solid;
+    border-color: rgb(245, 188, 214);
+    background-color: rgb(245, 188, 214);
+    border-radius: 20px;
+    border-width: 20px;
+    width: 400px;
+    margin-left: 750px;
+    height: 300px;
+    margin-top: 20px;
+    color:white;
+}
+.button{
+    background-color: transparent;
+    border: line;
+    border-color: rgb(255, 255, 255);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;border-radius: 20px;
+}
+input{
+    border: solid;
+    width: 275px;
+    border-radius: 20px;
+    border-color: rgb(255, 255, 255);
+    appearance: none;
+    background: transparent;
+    padding:12px
+    
+}
+#first{
+    margin-left: 900px;
+    margin-top: 75px;
+}
+.second{
+    margin-left: 775px;
+}
+.fb{
+    border-style: none;
+    border-width: 1px;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 25px;
+    width:610px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.insta{
+    border-style: none;
+    border-width: 1px;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 25px;
+    width:610px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.tweet{
+    border-style: none;
+    border-width: 1px;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 25px;
+    width:610px;
+    margin-left: 60px;
+    margin-top: 10px;
+    
+}
+.fa-facebook{
+    color: rgb(41, 41, 184);
+}
+.fa-instagram{
+    color:palevioletred;
+}
+.fa-twitter{
+    color:rgb(58, 118, 230);
+}
+.dis{
+    border-style: none;
+    border-width: 1px;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 25px;
+    width:610px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.fa-discord{
+    color:rgb(127, 72, 230);
+}
+.me{
+    margin-left: 1000px;
+    margin-top:-700px;
+    border-radius: 20px;
+}
+a:hover{
+    color: whitesmoke;
+}
+.reddit{
+    border-style: none;
+    border-width: 1px;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 25px;
+    width:610px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.fa-reddit{
+    color:rgb(248, 92, 2);
+}
+.email{
+    border-style: none;
+    border-width: 1px;
+    border-radius: 20px;
+    padding:10px;
+    font-size: 25px;
+    width:610px;
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.fa-envelope{
+    color:white;
+}
+#social_media{
+    margin-left: 600px
+}
+a:link{
+    color:black;
+}
+a:visited{
+    color:rgb(255, 255, 255)
+}
